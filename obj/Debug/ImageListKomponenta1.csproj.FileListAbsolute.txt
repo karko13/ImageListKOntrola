@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\ImageListKomponenta1\bin\Debug\ImageListKomponenta1.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\ImageListKomponenta1\bin\Debug\ImageListKomponenta1.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\ImageListKomponenta1\bin\Debug\ImageListKomponenta1.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\ImageListKomponenta1\obj\Debug\ImageListKomponenta1.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\ImageListKomponenta1\obj\Debug\ImageListKomponenta1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\ImageListKomponenta1\obj\Debug\ImageListKomponenta1.Form1.resources
+C:\Users\ucenik\Documents\Visual Studio Codes\ImageListKomponenta1\obj\Debug\ImageListKomponenta1.Properties.Resources.resources
+C:\Users\ucenik\Documents\Visual Studio Codes\ImageListKomponenta1\obj\Debug\ImageListKomponenta1.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\ImageListKomponenta1\obj\Debug\ImageListKomponenta1.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\ImageListKomponenta1\obj\Debug\ImageListKomponenta1.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\ImageListKomponenta1\obj\Debug\ImageListKomponenta1.pdb
